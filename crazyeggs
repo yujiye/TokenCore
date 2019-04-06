@@ -1,0 +1,6 @@
+if (you can't open source)
+{
+  give_up_it();
+  never_force_yourself();
+  bye();
+}
